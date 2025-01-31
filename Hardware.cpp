@@ -167,7 +167,7 @@ void Hardware::printAll() {
     cout << "Data memory" << endl;
     cout << "--------------" << endl;
 
-    // Only print non-null entries in the first 128 memory locations
+    // Only print non-null entries in the last 128 memory locations
     for (int i = 128; i < 256; ++i) {
         if (memory[i] != nullptr) {
             cout << i << ") ";
