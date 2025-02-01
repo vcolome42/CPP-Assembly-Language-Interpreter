@@ -1,5 +1,5 @@
 # CPP-Assembly-Language-Interpreter
-An assembly language interpreter (ALI) for the Simple Assembly Language (SAL)
+An assembly language interpreter (ALI) for the Simple Assembly Language (SAL), developed in C++
 
 This ALI project was created for my Object-Oriented Languages and Environments class, with a primary focus on exploring multiple inheritance and other features of object-oriented programming.
 
