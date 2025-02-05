@@ -7,7 +7,7 @@ To use the program, simply follow these steps:
 
 ### STEP 1: Executing the program
 
-- Ensure the Instructions folder contains a .txt file with instructions written in the SAL. The program will only read .txt files from this folder. Three .txt files are present in the folder by default. The simple.txt file runs a basic set of instructions to add 10 and 20 together to get a result of 30. The input.txt file runs a slightly more advanced set of instructions to create a loop where the value 3 is added for a total of four times to get a result of 12. The infinite.txt file is exactly the same as input.txt except that JZS 23 has been changed to JZS 21, resulting in an infinite loop. 
+- Ensure the Instructions folder contains a .txt file with instructions written in the SAL. The program will only read .txt files from this folder. Three .txt files are present in the folder by default. The simple.txt file contains a basic set of instructions to add 10 and 20 together to get a result of 30. The input.txt file contains a slightly more advanced set of instructions to create a loop where the value 3 is added for a total of four times to get a result of 12. The infinite.txt file is exactly the same as input.txt except that JZS 23 has been changed to JZS 21, resulting in an infinite loop. 
 
   <img width="520" alt="image" src="https://github.com/user-attachments/assets/687645db-e80b-49b2-bb0b-4c8c072b303d" />
 
