@@ -11,7 +11,7 @@ To use the program, simply follow these steps:
 
   <img width="520" alt="image" src="https://github.com/user-attachments/assets/687645db-e80b-49b2-bb0b-4c8c072b303d" />
 
-- Double-click on ALI.exe in the directory
+- Double-click on ALI.exe in the folder
 
 ![image](https://github.com/user-attachments/assets/a40a6cf3-0b1b-4360-9772-551f9cd061d8)
 
